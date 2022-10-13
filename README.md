@@ -18,9 +18,9 @@ Data Analyst Portfolio using the following tools:
 ======================================================
  - Dataset with 113,036 rows/transactions.
  - Insights on customers, branches in different countries, and profit and revenues in different years.
-[## Power Bi Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
+ -  [Power Bi Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
 
-
+ 
 [Project 3: Projects from Khan Academy](https://github.com/Madamn22/Khan-Academy-Projects)
 ======================================================
 
