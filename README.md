@@ -1,5 +1,8 @@
 
-Data Analyst Portfolio
+Data Analyst Portfolio using the following tools:
+  - SQL
+  - Visual Studio Code
+  - Power Bi
 
 [Project 1: Exploratory analysis of a company with mulitple datasets](https://github.com/Madamn22/Company-Analytics)
 ======================================================
@@ -11,26 +14,11 @@ Data Analyst Portfolio
 -Queries include basic select, from, where clauses as well as intermediate commands like cast, coalesce and rollup.
 
 
-Resources used
----------------
-
--Visual Studio Code 
-
--Postgres
-
--Github desktop
-
--MySQL
-
-
 [Project 2: Analysis of multibranch store with 113,036 Transactions](https://github.com/Madamn22/Large-Store-Insights)
 ======================================================
-## Power Bi Insights
-  - [Country Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
-  - [Customer Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
-  - [Revenue by Age groups and products](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
-
--Analysis performed on different variables including customers, profit and revenue and country.
+ - Dataset with 113,036 rows/transactions.
+ - Insights on customers, branches in different countries, and profit and revenues in different years.
+[## Power Bi Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
 
 
 [Project 3: Projects from Khan Academy](https://github.com/Madamn22/Khan-Academy-Projects)
