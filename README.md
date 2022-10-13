@@ -12,6 +12,7 @@ Data Analyst Portfolio using the following tools:
 -Performed analysis on each table, joining other tables where necessary
 
 -Queries include basic select, from, where clauses as well as intermediate commands like cast, coalesce and rollup.
+-[Power Bi Insights](https://app.powerbi.com/view?r=eyJrIjoiMjYxZjNjYmYtMWJkYy00M2E2LTkyNzUtMTJlNzRiMmNlN2Q3IiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
 
 
 [Project 2: Analysis of multibranch store with 113,036 Transactions](https://github.com/Madamn22/Large-Store-Insights)
