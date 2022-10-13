@@ -1,4 +1,4 @@
-# SQL-Portfolio
+
 Data Analyst Portfolio
 
 [Project 1: Exploratory analysis of a company with mulitple datasets](https://github.com/Madamn22/Company-Analytics)
@@ -23,7 +23,14 @@ Resources used
 -MySQL
 
 
-[Project 2: Projects from Khan Academy](https://github.com/Madamn22/Khan-Academy-Projects)
+[Project 2: Analysis of multibranch store with 113,036 Transactions](https://github.com/Madamn22/Large-Store-Insights)
+======================================================
+-Datasets with 113,036 transactions in 6 countries. Dataset includes country, gender, age groups,etc.
+
+-Analysis performed on different variables including customers, profit and revenue and country.
+
+
+[Project 3: Projects from Khan Academy](https://github.com/Madamn22/Khan-Academy-Projects)
 ======================================================
 
 -Created tables and inserted values into them.
