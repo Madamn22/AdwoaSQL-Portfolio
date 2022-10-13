@@ -28,3 +28,5 @@ Resources used
 -Created tables and inserted values into them.
 -Performed joins, including left outer joins and self joins
 
+# build settings
+theme: architect
