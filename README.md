@@ -1,6 +1,6 @@
 
 Data Analyst Portfolio using the following tools:
-  - SQL
+  - MySQL
   - Visual Studio Code
   - Power Bi
 
