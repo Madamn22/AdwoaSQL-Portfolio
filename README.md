@@ -25,7 +25,10 @@ Resources used
 
 [Project 2: Analysis of multibranch store with 113,036 Transactions](https://github.com/Madamn22/Large-Store-Insights)
 ======================================================
--Datasets with 113,036 transactions in 6 countries. Dataset includes country, gender, age groups,etc.
+## Power Bi Insights
+  - [Country Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
+  - [Customer Insights](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
+  - [Revenue by Age groups and products](https://app.powerbi.com/view?r=eyJrIjoiZDJiYTkxN2MtYWVhZC00NWM1LWFhMzItNDJjMWNiOGNkZTgwIiwidCI6IjE5ZGE0NWRiLTJlMDQtNDk5ZS1iNDA3LWI4ZWQxZGE4OWYyOSIsImMiOjN9)
 
 -Analysis performed on different variables including customers, profit and revenue and country.
 
